@@ -1,6 +1,8 @@
 ## Проект чемпионата "Цифровой прорыв сезон: ИИ" Омская область
 ### Детекция человеческих силуэтов на снимках лесного массива, полученных с помощью БПЛА (Person Detection from Aerial Drone Images)
 
+![Sample image](/docs/sample.jpg)
+
 ### Установка
 
 Для запуска проекта необходимо установить [docker](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#docker) с поддержкой nvidia. Для трекинга экспериментов необходимо установить [wandb](https://wandb.ai/site) и запустить сервер (опционально).
