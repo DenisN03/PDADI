@@ -1,0 +1,8 @@
+data/
+docs/
+notebooks/
+scripts/
+src/
+train_logs/
+yolov5/
+.idea/

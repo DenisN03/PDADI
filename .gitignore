@@ -1,0 +1,16 @@
+# Pycharm
+.idea/
+
+# Jupyter Notebook
+/notebooks/.ipynb_checkpoints/
+
+# Data
+data/
+train_logs/
+
+# WandB
+src/wandb/
+
+# Other
+yolov5/
+src/__pycache__/
